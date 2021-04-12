@@ -18,7 +18,7 @@
 - [GitHub](https://github.com/Selah-UM)
 - 作った作品
   - [作品1](https://selah-um.github.io/HitAndBrow/)
-  高校1年時の初作品
+  　高校1年時の初作品
 
 # Contact
 - [Mail](mailto:konominselah@gmail.com)
