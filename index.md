@@ -1,5 +1,5 @@
+<iframe src="https://openprocessing.org/sketch/1163979/embed/" width="600" height="360"></iframe>
 ![N予備校のロゴ](Nyobi-logo.png)
-<iframe src="https://openprocessing.org/sketch/1163979/embed/" width="400" height="400"></iframe>
 
 # About
 高校生で、プログラミングを勉強しています。  
